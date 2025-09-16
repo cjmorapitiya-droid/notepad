@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notepad Assignment
 
 ## Setup Instructions
@@ -9,3 +10,7 @@
 - Developed in Java.
 - Requires JDK 8 or above.
 - No external libraries required.
+=======
+# notepad
+notepad
+>>>>>>> 25057bd8b67fb4d665778450260c8f9d0cfc4af1
